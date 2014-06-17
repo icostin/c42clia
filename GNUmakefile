@@ -1,5 +1,5 @@
-N:=c42svc
-D:=C42SVC
+N:=c42clia
+D:=C42CLIA
 
 LIBSRC:=posix.c mswin.c
 
